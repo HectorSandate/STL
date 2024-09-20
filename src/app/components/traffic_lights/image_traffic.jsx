@@ -1,1 +1,0 @@
-// Componente para mostrar las imagenes en la interfaz
